@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Frogspin" width="400" src="https://media1.tenor.com/m/b5szSUjDJI0AAAAC/frogspin.gif">
+<img align="right" alt="Frogspin" width="400" src="[https://media1.tenor.com/m/b5szSUjDJI0AAAAC/frogspin.gif](https://tenor.com/ru/view/frogspin-gif-22018746)">
 
 ### 🚀 О себе:
 
@@ -122,7 +122,7 @@
 
 ## 🎮 Когда я не кодю:
 
-<img src="https://media1.tenor.com/m/b5szSUjDJI0AAAAC/frogspin.gif" width="60"> <em><b>Спиню лягушек и общаюсь с единомышленниками!</b> Если хочешь поговорить о технологиях, мемах или просто поболтать, не стесняйся! 😊🐸</em>
+<img src="[https://media1.tenor.com/m/b5szSUjDJI0AAAAC/frogspin.gif](https://tenor.com/ru/view/frogspin-gif-22018746)" width="60"> <em><b>Спиню лягушек и общаюсь с единомышленниками!</b> Если хочешь поговорить о технологиях, мемах или просто поболтать, не стесняйся! 😊🐸</em>
 
 ---
 
