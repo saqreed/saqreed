@@ -12,13 +12,14 @@
 
 ### 🚀 О себе:
 
-- 🔭 Сейчас работаю над **крутыми проектами** (и это не шутка!)
-- 🌱 Изучаю **новые технологии** (и забываю старые)
-- 👯 Открыт для **сотрудничества** (если умеешь в Git)
-- 💬 Спрашивай меня о **веб-разработке** (или о лягушках)
-- ⚡ Интересный факт: **люблю кодить под музыку 🎵**
-- 🚀 Работаю с **Go, Vue.js и форумами**
-- 🐸 **Spinning frogs enthusiast**
+- 🔭 Сейчас работаю над **крутыми проектами** (спойлер: они не крутые)
+- 🌱 Изучаю **Golang и веб** (по данным Stack Overflow)
+- 👯 Открыт для **сотрудничества** (если не боишься моего кода)
+- 💬 Спрашивай меня о **MongoDB и PostgreSQL** (изучаю уже 46 дней!)
+- ⚡ Интересный факт: **1 репутация на Stack Overflow** и горжусь этим! 📋
+- 🚀 Работаю с **Go, Vue.js и нервными срывами**
+- 🐸 **Чемпион по спинингу лягушек с 2021 года**
+- 🏆 **0 вопросов, 0 ответов** - профессионал молчания!
 
 <br clear="both"/>
 
@@ -82,7 +83,7 @@
 ## 📈 Активность:
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=saqreed&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqreed&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -91,7 +92,7 @@
 
 <div align="center">
 
-### 💻 Закрепленные репозитории:
+### 💻 Закрепленные репозитории (или как я их называю - "говнокод"):
 
 <a href="https://github.com/saqreed/FORUM-GO-VUE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saqreed&repo=FORUM-GO-VUE&theme=radical&hide_border=true" />
@@ -116,13 +117,20 @@
 ![Followers](https://img.shields.io/badge/Подписчиков-4-blue?style=for-the-badge)
 ![Following](https://img.shields.io/badge/Подписок-8-orange?style=for-the-badge)
 
+### 🤡 Статистика страданий:
+![Bugs](https://img.shields.io/badge/Багов%20в%20продакшне-∞-red?style=for-the-badge)
+![Stack Overflow Rep](https://img.shields.io/badge/Stack%20Overflow%20репутация-1-orange?style=for-the-badge)
+![Questions](https://img.shields.io/badge/Задано%20вопросов-0-yellow?style=for-the-badge)
+![Answers](https://img.shields.io/badge/Дано%20ответов-0-green?style=for-the-badge)
+![Sleep](https://img.shields.io/badge/Часов%20сна-3%20максимум-purple?style=for-the-badge)
+
 </div>
 
 ---
 
 ## 🎮 Когда я не кодю:
 
-<img src="https://c.tenor.com/b5szSUjDJI0AAAAd/frogspin.gif" width="60"> <em><b>Спиню лягушек и общаюсь с единомышленниками!</b> Если хочешь поговорить о технологиях, мемах или просто поболтать, не стесняйся! 😊🐸</em>
+<img src="https://c.tenor.com/b5szSUjDJI0AAAAd/frogspin.gif" width="60"> <em><b>Спиню лягушек и страдаю от багов!</b> Если хочешь поговорить о том, как JavaScript сломал тебе мозг, или просто пожаловаться на жизнь - пиши! 😊🐸</em>
 
 ---
 
@@ -133,22 +141,26 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqreed)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saqreed)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/saqreed)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-1%20репутация-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30310418/saqreed)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saqreed&color=blueviolet&style=flat-square&label=Посещений+профиля" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saqreed&color=blueviolet&style=flat-square&label=Жертв+моего+кода" alt="Profile views" />
 </div>
 
 <div align="center">
   
-### 💫 "Код - это поэзия в движении" 
+### 💫 "Работает на моей машине ¯\_(ツ)_/¯" 
   
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://c.tenor.com/b5szSUjDJI0AAAAd/frogspin.gif" width="100"/>
 
-**Спасибо за посещение! ⭐ Не забудь поставить звездочку моим проектам!**
+**Спасибо что заглянул! 🐸 Помни: любой код можно исправить... теоретически**
+
+### 🎯 Жизненное кредо:
+*"Если код компилируется с первого раза - значит что-то пошло не так"*
 
 </div>
 
