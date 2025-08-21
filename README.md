@@ -4,8 +4,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-saqreed-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saqreed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/egor-ivanov-0b49a537b)
-[![Email](https://img.shields.io/badge/Email-iegor510%40gmail.com-6C757D?logo=gmail&logoColor=white&style=flat-square)](mailto:iegor510@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@saqreed-2CA5E0?logo=telegram&logoColor=white&style=flat-square)](https://t.me/saqreed)
+[![Email](https://img.shields.io/badge/Email-iegor510%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:iegor510@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@saqreed-229ED9?logo=telegram&logoColor=white&style=flat-square)](https://t.me/saqreed)
 
 <div align="center">
 
