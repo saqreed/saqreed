@@ -7,11 +7,13 @@
 <div align="center">
 
 ![Open to Work: Roles](https://img.shields.io/badge/Open%20to%20Work-DevOps%20%7C%20SRE%20%7C%20Platform-brightgreen?style=for-the-badge)
-![Regions](https://img.shields.io/badge/Target%20Regions-US%20%7C%20EU%20Relocation-blue?style=for-the-badge)
+![Regions](https://img.shields.io/badge/Target%20Regions-US%20%7C%20EU%20Relocation-gray?style=for-the-badge)
 
-![Availability](https://img.shields.io/badge/Availability-Full--time%20%7C%20Contract-lightgrey?style=flat)
-![Timezone UTC+4](https://img.shields.io/badge/Timezone-UTC%2B4-lightgrey?style=flat)
-![Languages RU|EN](https://img.shields.io/badge/Languages-RU%20%7C%20EN-lightgrey?style=flat)
+<br/>
+
+![Availability](https://img.shields.io/badge/Availability-Full--time%20%7C%20Contract-lightgrey?style=flat-square)
+![Timezone UTC+4](https://img.shields.io/badge/Timezone-UTC%2B4-lightgrey?style=flat-square)
+![Languages RU • EN](https://img.shields.io/badge/Languages-RU%20%E2%80%A2%20EN-lightgrey?style=flat-square)
 
 </div>
 
